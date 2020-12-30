@@ -1,0 +1,9 @@
+Conceptos
+Variables: Al imaginarno una caja sabemos que puedes guardar objetos, igualmente a esta caja le puedes escribir una identificación o un nombre y un valor. En programación a esta caja se le conoce como variable. Puedes usar esta caja en otro momento y cambiar ese nombre y ese valor.
+Strings: Son cadenas cuyos eslabones estan formados por palabras, que resaltas entre comillas.
+Funciones (argumentos, return):Funciones Son objetos que guardas dentro de una caja (variable), puedes  invocar una función para calcular o cambiar una variable, generando un valor o simplemente indicando una acción en la misma. 
+  Argumentos: Las variables que necesitan las funciones se llaman argumentos. Para usarlos se debe indicar cuantos argumentos se necesitan y el nombre de cada uno. Van dentro de paréntesis en una función y se separan con una coma.
+  Return: Es un elemento básico de una función que genera un resultado o valor especifico. es la unica forma que que los datos escapan de la una función.
+Declaraciones (if):  
+Valores booleanos (true, false): Son los valores posibles de un tipo de variable usados en el lenguaje de programación JS. Los dos valores
+Verdadero (True) y Falso (false). Facilitan la escritura y el razonamiento  de las expresiones lógicas en la programación.
